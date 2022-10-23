@@ -1,0 +1,10 @@
+print("**********************************")
+
+color = input("Enter a Color: ")
+Noun = input("Enter a Noun: ")
+friend = input("Enter the name of a friend: ")
+print("Violets are ", color)
+print(Noun, " are cold hearted animals")
+print("I love ", friend)
+print("\n")
+print("**********************************")
